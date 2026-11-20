@@ -1,0 +1,8 @@
+Amit,78
+Ravi,45
+Meena,91
+Omkar,60
+Ravi,45
+Zoe,33
+Anna,52
+Neel,70
